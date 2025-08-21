@@ -32,9 +32,9 @@ I’m passionate about building products that solve real-world problems, with a 
 ---
 
 ## 📫 Connect with Me  
-- [LinkedIn](https://www.linkedin.com/in/)  
-- [Twitter / X](https://twitter.com/)  
-- [Email](mailto:your-email@example.com)  
+- [LinkedIn](https://www.linkedin.com/in/sayandutta8653128442/)  
+- [Twitter / X](https://x.com/sayandutta8653)  
+- [Email](mailto:sayandutta.developer@gmail.com)  
 
 ---
 
