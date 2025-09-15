@@ -1,6 +1,6 @@
 # Hi there, I'm Sayan 👋  
 
-🚀 **Entrepreneur | CSE Student @ IIT Patna | Founder @ OneDev**  
+🚀 **Entrepreneur | CSDA Student @ IIT Patna | Founder @ OneDev**  
 
 I’m passionate about building products that solve real-world problems, with a special focus on **AI, data-driven systems, and social impact platforms**. Currently, I’m working on projects ranging from **corruption-reporting platforms** to **AI integrations with multi-model APIs** (OpenAI, Anthropic, Google Gemini, etc.).  
 
