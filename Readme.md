@@ -8,7 +8,6 @@ I’m passionate about building products that solve real-world problems, with a 
 
 ## 👨‍💻 About Me  
 - 🎓 BS-MS in **Computer Science & Data Analytics** at IIT Patna
-- 🎓 Completed Diploma in Engeneering in **Computer Science and Technology** at Central Calcutta Polytechnic
 - 📚 Exploring **Data Science, Web Development, System Design, and Large Language Models (LLMs)**  
 - 🛠 Skilled in **C, C++, Python, Java, Express.js, PHP, MySQL**  
 - 🌱 Currently learning **Real Analysis, Probability & Statistics, and Multivariable Calculus**  
@@ -17,7 +16,6 @@ I’m passionate about building products that solve real-world problems, with a 
 ---
 
 ## 🔨 Projects & Work  
-- **OneDev** → A platform inspired by LinkedIn, Internshala, Unstop, and Devfolio, evolving towards tackling corruption reporting.  
 - **AI Integration Hub** → A unified system that connects multiple AI models via APIs.  
 - **Pathology Admin Panel** → Full-stack solution with billing, reporting, and analytics for labs.  
 
