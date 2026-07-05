@@ -22,7 +22,7 @@ Building intelligent systems that reason, remember, and recover from failure.
 
 ## About
 
-I'm a first-year **BS-MS student in Computer Science & Data Analytics** at **IIT Patna** (CPI 8.32/10), working at the intersection of **LLM reasoning**, **memory-augmented AI**, and **cognitive architectures**.
+I'm a first-year **BS-MS student in Computer Science & Data Analytics** at **IIT Patna** (CPI 8.64/10), working at the intersection of **LLM reasoning**, **memory-augmented AI**, and **cognitive architectures**.
 
 Before college, I began building **[Blix](https://github.com/SAYANDUTTA8442/blix.ai)** — a cognitive agent architecture with persistent memory, knowledge graphs, truth maintenance, and autonomous execution. That project continues to define my research direction.
 
@@ -32,7 +32,7 @@ In early 2026, I joined a research internship at **BITS Pilani** under Dr. Srish
 <tr>
 <td align="center"><b>1</b><br/><sub>Paper Under Review</sub></td>
 <td align="center"><b>400+</b><br/><sub>Students Mentored</sub></td>
-<td align="center"><b>8.32</b><br/><sub>CPI · Sem I</sub></td>
+<td align="center"><b>8.64</b><br/><sub>CPI · Sem I</sub></td>
 <td align="center"><b>2+</b><br/><sub>Years on Blix</sub></td>
 </tr>
 </table>
