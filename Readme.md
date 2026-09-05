@@ -32,7 +32,7 @@ In early 2026, I joined a research internship at **BITS Pilani** under Dr. Srish
 <tr>
 <td align="center"><b>1</b><br/><sub>Paper Under Review</sub></td>
 <td align="center"><b>400+</b><br/><sub>Students Mentored</sub></td>
-<td align="center"><b>8.64</b><br/><sub>CPI · Sem I</sub></td>
+<td align="center"><b>8.64</b><br/><sub>CPI · Upto Sem II</sub></td>
 <td align="center"><b>2+</b><br/><sub>Years on Blix</sub></td>
 </tr>
 </table>
@@ -151,7 +151,7 @@ An intelligent CLI client unifying MySQL, PostgreSQL, and MongoDB with zero LLM 
 2026 Jan  ──  ASES (Capstone Project I, IIT Patna)
 2026 Apr  ──  Research Intern @ BITS Pilani — Dr. Srishti Gupta
 2026 May  ──  Co-authored ECOT-ERG → submitted to EMNLP 2026 (ARR)
-2026 ──── ──  Currently: Sem II, IIT Patna · Building · Researching
+2026 ──── ──  Currently: Sem III, IIT Patna · Building · Researching
 ```
 
 ---
